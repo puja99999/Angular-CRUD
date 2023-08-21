@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "nazish",
+      "lastName": "kamran",
+      "emailId": "nk@gmail.com",
+      "mobileNo": "9876542101",
+      "salary": "40,000"
+    },
+    {
+      "id": 2,
+      "firstName": "pooja",
+      "lastName": "acs",
+      "emailId": "pooja@gmail.com",
+      "mobileNo": "9977665544",
+      "salary": "50,000"
+    },
+    {
+      "id": 3,
+      "firstName": "rahul",
+      "lastName": " kumar",
+      "emailId": "rahul@gmail.com",
+      "mobileNo": "7766554422",
+      "salary": "45,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
