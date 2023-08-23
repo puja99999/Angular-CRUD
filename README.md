@@ -27,8 +27,3 @@ json-server: 0.17.3
 
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Useful links
-
-- [Angular CLI Overview and Command Reference](https://angular.io/cli) <br>
-- [Bootstrap UI](https://getbootstrap.com/docs/5.3/getting-started/introduction/) <br>
-- [JSON Server](https://www.npmjs.com/package/json-server) <br>
